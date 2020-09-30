@@ -85,8 +85,8 @@ This diverges a little from Manacher's original algorithm primarily by deliberat
 declaring and operating on R in such a way to help show that the runtime is in fact 
 linear. You can see in the pseudo-code that R, C and i are all monotonically 
 increasing, each stepping through the elements in S' and P. (the end condition was 
-also changed slightly to not compute the last elements of P if R is already at the end 
-; these will necessarily have lengths less than P[C] and can be skipped).
+also changed slightly to not compute the last elements of P if R is already at the 
+end; these will necessarily have lengths less than P[C] and can be skipped).
 
 The use of S' provides a couple of simplifications for the code: it provides a string 
 aligned to P allowing direct use of the pointers in both arrays and it implicitly 
