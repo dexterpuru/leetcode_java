@@ -66,7 +66,10 @@ that explains what's going on:
         If i is within the palindrome at C (Cases 1 and 2):
             Set P[i] = P[i'] (else P[i] is set to 0)
     
-        Expand the palindrome at i (primarily Cases 2 and 3; can be skipped in Case 1, though we have already shown that S'[R] ≠ S'[L] because otherwise the palindrome at i' would have extended at least to the left edge of the palindrome at C):
+        Expand the palindrome at i (primarily Cases 2 and 3; can be skipped in Case 1, 
+        though we have already shown that S'[R] ≠ S'[L] because otherwise the 
+        palindrome at i' would have extended at least to the left edge of the 
+        palindrome at C):
             while S'[R] == S'[L]:
                 increment P[i]
                 increment R
