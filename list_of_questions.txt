@@ -1,3 +1,5 @@
 # This file contains list of question that are already present in repo
 
-Longest Palindromic Substring
+-Longest Palindromic Substring
+-Counting Bits
+-Power of two
