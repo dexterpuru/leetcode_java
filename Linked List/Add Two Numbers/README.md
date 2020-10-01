@@ -71,4 +71,4 @@ We can simply create a third linked list and then iterate over the two given lin
 
 **Time Complexity: O(MAX(M, N)**, where M and N are the number of nodes in the respective linked lists.
 
-**Space Complexity: O(MAX(M, N))**, The length of the new list is at most MAX(M, N) + 1.
+**Space Complexity: O(1)**, since other than the output list, no extra space was required.
