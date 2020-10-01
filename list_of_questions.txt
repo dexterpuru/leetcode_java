@@ -3,3 +3,4 @@
 Longest Palindromic Substring
 Find All Anagrams in a String
 Add Two Numbers
+String to Integer (atoi)
