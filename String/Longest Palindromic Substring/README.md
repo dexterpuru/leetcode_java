@@ -1,4 +1,27 @@
-# Manacher's algorithm
+#### Leetcode Link: 
+
+> https://leetcode.com/problems/longest-palindromic-substring/
+
+### Problem Statement
+
+> Given a string **s**, find the longest palindromic substring in **s**. You may assume that the maximum length of **s** is 1000.
+>
+> **Example 1:**
+>
+> ```
+> Input: "babad"
+> Output: "bab"
+> Note: "aba" is also a valid answer.
+> ```
+>
+> **Example 2:**
+>
+> ```
+> Input: "cbbd"
+> Output: "bb"
+> ```
+
+### Manacher's Algorithm
 
 To find a longest palindrome in a string in linear time, an algorithm may take advantage of the following characteristics or observations about a palindrome and a sub-palindrome:
 
@@ -40,9 +63,9 @@ To find a longest palindrome in a string in linear time, an algorithm may take a
     For even-length palindromes, the center is at the boundary of the two characters 
     in the middle.
 
----------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 
-# Pseudocode with explanation
+### Pseudo-code with explanation
 
 To help understand how this algorithm works, the following is commented pseudo-code 
 that explains what's going on:
