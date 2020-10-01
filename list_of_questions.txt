@@ -4,4 +4,5 @@ Longest Palindromic Substring
 Find All Anagrams in a String
 Add Two Numbers
 Add Two Numbers II
+String to Integer (atoi)
 Asteroid Collision
