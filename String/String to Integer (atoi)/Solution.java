@@ -25,10 +25,4 @@ class Solution {
         return result * sign;
 
     }
-
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        String str = "hacktoberfest 2020";
-        System.out.println(solution.myAtoi(str));
-    }
 }
