@@ -17,6 +17,10 @@
 
 ### Approach
 
-The basic idea is to use Topological algorithm: put NODE with 0 indgree into the queue, then make indegree of NODE's successor dereasing 1. Keep the above steps with BFS.
+The basic idea is to use Topological algorithm: put NODE with 0 indgree into the queue, then make indegree of node's successor decrease by 1.
 
-Finally, if each node' indgree equals 0, then it is validated DAG (Directed Acyclic Graph), which means the course schedule can be finished.
+Finally, if each node's indegree equals 0, then it is validated DAG (Directed Acyclic Graph), which means the course schedule can be finished.  It uses a BFS approach.
+
+### Time Complexity
+
+O(V+E)
