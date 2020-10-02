@@ -22,7 +22,7 @@ Output: [["a"]]
 ```
 ### Constraints:
 ```
-1 <= strs.length <= 104
+1 <= strs.length <= 10<sup>4</sup>
 0 <= strs[i].length <= 100
 strs[i] consists of lower-case English letters.
 ```
