@@ -34,6 +34,6 @@ The 8 and -8 collide exploding each other.
 *  If new is moving right (new > 0), or if top is moving left (top < 0), no collision occurs.
 
 
-  **Time Complexity: O(N )**, where N is the number of asteroids.
+  **Time Complexity: O(N)**, where N is the number of asteroids.
 
   **Space Complexity: O(N)**, the size of the output array
