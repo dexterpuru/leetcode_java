@@ -36,6 +36,8 @@ strs[i] consists of lower-case English letters.
 * Then will add that sorted string into a HashMap.
 * After iterating through every string, we will return the linkedList using LinkedList<>(map.values()).
 
-Time Complexity - O(NMlogM)
-Space Complexity = O(NM)
+**Time Complexity - O(NMlogM)**
+
+**Space Complexity = O(NM)**
+
 (where N is the length of the array and M is the length of word of maximum length)
