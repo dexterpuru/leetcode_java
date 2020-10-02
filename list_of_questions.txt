@@ -5,3 +5,6 @@ Find All Anagrams in a String
 Add Two Numbers
 Add Two Numbers II
 Subarray Product Less Than K
+String to Integer (atoi)
+Asteroid Collision
+Longest Substring without repeating characters
