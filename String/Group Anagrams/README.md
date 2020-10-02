@@ -21,11 +21,11 @@ Input: strs = ["a"]
 Output: [["a"]]
 ```
 ### Constraints:
-```
+
 1 <= strs.length <= 10<sup>4</sup>
 0 <= strs[i].length <= 100
 strs[i] consists of lower-case English letters.
-```
+
 
 ### Approach
 * Every group of anangrams have some key which is sorted string of that group. So will create a map of that sorted string and a list of strings which is anagram to that key.
