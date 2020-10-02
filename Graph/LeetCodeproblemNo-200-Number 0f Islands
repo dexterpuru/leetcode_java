@@ -1,4 +1,60 @@
-// Java program to count islands in boolean 2D matrix 
+This is link of leetcode question
+-> https://leetcode.com/problems/number-of-islands/
+
+
+-> Given below is question
+
+Given a 2d grid map of '1's (land) and '0's (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. 
+You may assume all four edges of the grid are all surrounded by water.
+
+
+-> These are examples :
+Example-1:
+
+Input: grid = [
+  ["1","1","1","1","0"],
+  ["1","1","0","1","0"],
+  ["1","1","0","0","0"],
+  ["0","0","0","0","0"]
+]
+Output: 1
+
+Example-2:
+
+ Input: grid = [
+  ["1","1","0","0","0"],
+  ["1","1","0","0","0"],
+  ["0","0","1","0","0"],
+  ["0","0","0","1","1"]
+]
+Output: 3
+
+-> Before we go to the problem, let us understand what is a connected component. A connected component of an undirected graph is a subgraph in which every two vertices 
+are connected to each other by a path(s), and which is connected to no other vertices outside the subgraph.
+
+-> Approach 
+
+A cell in 2D matrix can be connected to 8 neighbours. So, unlike standard DFS(), where we recursively call for
+all adjacent vertices, here we can recursively call for 8 neighbours only. We keep track of the visited 1s so that
+they are not visited again.
+Now understand by an example:
+                   {{1X, 1X, 0, 0, 0},
+                   {0, 1X, 0, 0, 1Y},
+                   {1X, 0, 0, 1Y, 1Y},
+                   {0, 0, 0, 0, 0},
+                   {1Z, 0, 1A, 0, 1B} }
+
+                   Output : 5
+here if we mark a group of pair as same alpahabet let us say X,Y,Z,A,B .
+in first pair X 
+in 2nd pair Y
+now Z is alone so it is a group itself
+and similary for A
+similary for B
+So output is 5.
+
+
+// Java program to count islands 
 import java.util.*; 
 import java.lang.*; 
 import java.io.*; 
@@ -85,3 +141,8 @@ class Islands {
 		System.out.println("Number of islands is: " + I.countIslands(M)); 
 	} 
 } 
+
+-> Time complexity:
+    
+    O(ROW x COL)
+
