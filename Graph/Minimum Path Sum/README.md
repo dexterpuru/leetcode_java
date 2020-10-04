@@ -23,11 +23,12 @@ Start at top left of the grid.
 If the current location matches with the destination, return the value at the current location. 
 If destination is not yet reached, check the cache if we already calculated the min path sum to reach the destination 
 from current location. If found in cache, return the result.
-Otherwise, calculate the path sum to reach the destination by traversing right.
-           calculate the path sum to reach the destination by traversing down.
-           pick the min value of both.
-           Add min value found with the value at the current location.
-           Store it in cache and return the result.
+Otherwise, do the following
+1. calculate the path sum to reach the destination by traversing right.
+2. calculate the path sum to reach the destination by traversing down.
+3. pick the min value of both.
+4. Add min value found with the value at the current location.
+5. Store it in cache and return the result.
      
 **Time Complexity: O(M*N), M is the number of rows, N is the number of cols.
 
