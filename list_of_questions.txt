@@ -17,4 +17,5 @@ Largest Number
 Best Time to Buy and Sell Stock
 Minimum Path Sum
 Power of Two
+Maximum Depth of N-ary Tree
 Rotate Image
