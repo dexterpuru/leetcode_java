@@ -19,3 +19,4 @@ Minimum Path Sum
 Power of Two
 Maximum Depth of N-ary Tree
 3Sum
+Jump Game
