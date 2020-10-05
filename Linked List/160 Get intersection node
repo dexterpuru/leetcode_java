@@ -1,0 +1,50 @@
+
+
+    // Leetcode 160
+    public ListNode getIntersectionNode(final ListNode headA, final ListNode headB) {
+        if (headB == null || headA == null)
+            return null;
+        if (headA.next == null && headB.next == null)
+            if (headA != headB)
+                return null;
+            else
+                return headA;
+
+        ListNode curr = headA;
+        while (curr.next != null) {
+            curr = curr.next;
+        }
+
+        curr.next = headA;
+        final ListNode rv = detectCycle(headB); //call function for detect cycle
+        curr.next = null;
+
+        return rv;
+
+    }
+    
+     public ListNode detectCycle(final ListNode head) {
+        if (head == null || head.next == null)
+            return head;
+
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+            if (slow == fast)
+                break;
+        }
+
+        if (slow != fast)
+            return head;
+
+        slow = head;
+        while (slow != fast) {
+            slow = slow.next;
+            fast = fast.next;
+        }
+
+        return slow;
+    }
