@@ -40,8 +40,8 @@ If 2 to the power of the current exponent is greater than n, then n is not power
 Otherwise, we increment the exponent by 1 and recurse again.
 
 ### Time Complexity: O(N), where N is the maximum iterations which is equal to 31. 
-                     We can conclude time complexity as O(1), since N is not growing with the input.
+We can conclude time complexity as O(1), since N is not growing with the input.
 
 
 ### Space Complexity: O(N), (considenring stack space)
-                      We can conclude space complexity as O(1), since N is not growing with the input.
+We can conclude space complexity as O(1), since N is not growing with the input.
