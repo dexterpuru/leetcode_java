@@ -29,8 +29,9 @@ Otherwise, do the following
 3. pick the min value of both.
 4. Add min value found with the value at the current location.
 5. Store it in cache and return the result.
-     
-**Time Complexity: O(M*N), M is the number of rows, N is the number of cols.
+   
 
-**Space Complexity: O(M*N), M is the number of rows, N is the number of cols.
+**Time Complexity: O(M*N)**, M is the number of rows, N is the number of cols.
+
+**Space Complexity: O(M*N)**, M is the number of rows, N is the number of cols.
 
