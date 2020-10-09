@@ -45,4 +45,5 @@
 
 * If none of the above following conditions satisfies, then we return **false**.
 
-  **Time Complexity: O(1)**, 
+  **Time Complexity: O(n), where n is the length of the string.**, 
+  **Space Complexity: O(1), because we are not using any extra space**
