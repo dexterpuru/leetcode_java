@@ -1,3 +1,6 @@
+//leetcode problem - Jump Game - solution
+//Refer the README file for detailed approach 
+
 class Solution {
     public boolean canJump(int[] nums) {
  	 if(nums[0]==0){		//checking the first value for zero
