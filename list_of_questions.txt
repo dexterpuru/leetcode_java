@@ -21,3 +21,4 @@ Maximum Depth of N-ary Tree
 Rotate Image
 Jump Game
 Detect Capital 
+Permutation in String
