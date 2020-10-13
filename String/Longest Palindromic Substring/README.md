@@ -115,3 +115,9 @@ The use of S' provides a couple of simplifications for the code: it provides a s
 aligned to P allowing direct use of the pointers in both arrays and it implicitly 
 enables the inner while-loop to double-increment P[i] and R (because every other time 
 it will be comparing the bogus character to itself). 
+
+
+
+**Time Complexity: O(N)**
+
+**Space Complexity: O(N)**
