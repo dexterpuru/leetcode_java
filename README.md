@@ -1,8 +1,8 @@
 ### Leetcode solutions in Java
 
-Kindly checkout the problemStatementList.md for the current stock of problem statements.
+Kindly checkout the [problemStatementList.md](https://github.com/dexterpuru/leetcode_java/blob/master/problemStatementList.md) for the current stock of problem statements.
 
-Contributions are always welcome. Kindly checkout CONTRIBUTING.md.
+Contributions are always welcome. Kindly checkout [CONTRIBUTING.md](https://github.com/dexterpuru/leetcode_java/blob/master/CONTRIBUTING.md).
 
 
 
