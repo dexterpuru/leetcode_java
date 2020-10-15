@@ -8,7 +8,9 @@
 
    *Example:* Add 'Longest Palindromic Substring'
 
-   **Description Format:** Leetcode Link: \<problem statement link>
+   **Description Format:** 
+
+   > **Leetcode Link:** \<problem statement link>
 
 3. You are free to explore other issues, which need attention, like issues with ***help wanted*** label with no ***assignee***.
 
