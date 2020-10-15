@@ -1,0 +1,18 @@
+---
+name: Update Question
+about: This template is used if anybody has better approach for a problem statement in stock.
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+**Leetcode Link**
+
+**Current Solution Complexity: ** <Time and Space Complexity>
+
+**Complexity of the solution you are proposing: ** <Time and Space Complexity>
+
+**Approach:**
+
+<Detailed Solution Approach>
