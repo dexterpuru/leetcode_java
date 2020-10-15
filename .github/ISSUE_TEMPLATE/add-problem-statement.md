@@ -1,6 +1,6 @@
 ---
 name: Add Problem statement
-about: This template could be used to make a issue to add a problem statement.
+about: This template could be used to create an issue regarding adding a problem statement.
 title: ''
 labels: ''
 assignees: ''
