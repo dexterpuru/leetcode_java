@@ -20,5 +20,5 @@
 [Maximum Depth of N-ary Tree](https://github.com/dexterpuru/leetcode_java/tree/master/Graph/Maximum%20Depth%20of%20N-ary%20Tree)
 [Rotate Image](https://github.com/dexterpuru/leetcode_java/tree/master/Matrix/Rotate%20Image)
 [Jump Game](https://github.com/dexterpuru/leetcode_java/tree/master/Array/Jump%20Game)
-[Detect Capital]()
+[Detect Capital](https://github.com/dexterpuru/leetcode_java/tree/master/String/Detect%20Capital)
 [Permutation in String](https://github.com/dexterpuru/leetcode_java/tree/master/String/Permutation%20in%20String)
