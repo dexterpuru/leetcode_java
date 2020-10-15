@@ -26,7 +26,15 @@
 
    > ## Closes #\<Issue No.>
    >
-   > ...
+   > ### Checklist: 
+   >
+   > - [x] Added detailed solution approach
+   >
+   > - [x] Added complexity analysis
+   >
+   > - [x] Updated problemStatementList.md
+   >
+   >   ...
 
 7. A few things to keep in mind: It doesn't matter if the solution is not yours. Code must be clean and understandable, also properly documented.
 
