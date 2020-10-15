@@ -44,4 +44,4 @@
 
 [Permutation in String](https://github.com/dexterpuru/leetcode_java/tree/master/String/Permutation%20in%20String)
 
-[Two Sum]()
+[Two Sum](https://github.com/dexterpuru/leetcode_java/tree/master/Array/Two%20Sum)
