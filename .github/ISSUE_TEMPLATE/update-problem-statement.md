@@ -1,5 +1,5 @@
 ---
-name: Update Question
+name: Update Problem Statement
 about: This template is used if anybody has better approach for a problem statement in stock.
 title: ''
 labels: ''
