@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-**Leetcode Link**
+**Leetcode Link:** <link>

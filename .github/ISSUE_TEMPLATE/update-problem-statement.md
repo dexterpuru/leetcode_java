@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Leetcode Link**
+**Leetcode Link:** <link>
 
 **Current Solution Complexity: ** <Time and Space Complexity>
 
