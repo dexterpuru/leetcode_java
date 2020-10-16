@@ -46,4 +46,4 @@
 
 [Two Sum](https://github.com/dexterpuru/leetcode_java/tree/master/Array/Two%20Sum)
 
-Reverse Integer
+[Reverse Integer](https://github.com/dexterpuru/leetcode_java/tree/master/Stack/Reverse%20Integer)
