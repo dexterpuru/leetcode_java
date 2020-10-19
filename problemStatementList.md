@@ -47,3 +47,6 @@
 [Two Sum](https://github.com/dexterpuru/leetcode_java/tree/master/Array/Two%20Sum)
 
 [Reverse Integer](https://github.com/dexterpuru/leetcode_java/tree/master/Stack/Reverse%20Integer)
+
+[Friends Of Appropriate Ages](https://github.com/dexterpuru/leetcode_java/tree/master/Algorithms/Friends%20Of%20Appropriate%20Ages)
+
