@@ -50,3 +50,4 @@
 
 [Friends Of Appropriate Ages](https://github.com/dexterpuru/leetcode_java/tree/master/Algorithms/Friends%20Of%20Appropriate%20Ages)
 
+[Find and Replace Pattern](https://github.com/dexterpuru/leetcode_java/tree/master/String/Find%20And%20Replace%20Pattern)
