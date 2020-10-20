@@ -50,3 +50,5 @@
 
 [Friends Of Appropriate Ages](https://github.com/dexterpuru/leetcode_java/tree/master/Algorithms/Friends%20Of%20Appropriate%20Ages)
 
+[Boats To Save People](https://github.com/dexterpuru/leetcode_java/tree/master/Algorithms/Boats%20To%20Save%20People)
+
