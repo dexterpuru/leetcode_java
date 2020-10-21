@@ -1,5 +1,3 @@
-package boats_to_save_people;
-
 import java.util.Arrays;
 
 public class Solution {
