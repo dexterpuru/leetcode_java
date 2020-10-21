@@ -1,5 +1,3 @@
-package find_and_replace_pattern;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
