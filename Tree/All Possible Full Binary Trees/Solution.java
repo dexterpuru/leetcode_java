@@ -1,5 +1,3 @@
-package all_possible_fbt;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
