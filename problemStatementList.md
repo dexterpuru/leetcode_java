@@ -51,3 +51,5 @@
 [Friends Of Appropriate Ages](https://github.com/dexterpuru/leetcode_java/tree/master/Algorithms/Friends%20Of%20Appropriate%20Ages)
 
 [All Possible Full Binary Trees](https://github.com/dexterpuru/leetcode_java/tree/master/Tree/All%20Possible%20Full%20Binary%20Trees)
+
+[Boats To Save People](https://github.com/dexterpuru/leetcode_java/tree/master/Algorithms/Boats%20To%20Save%20People)
